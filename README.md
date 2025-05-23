@@ -8,6 +8,10 @@
 ![image](https://github.com/user-attachments/assets/3fc03c60-d285-45a6-9704-842c6087748c)
 ## Project Page
 ![image](https://github.com/user-attachments/assets/7e4408d0-807c-4469-851d-8826e9b0626b)
+## IPL Dashboard
+## Link: https://github.com/parchakeavinash/IPL-2025-Dashboard
+## Data Warehouse
+## Link: https://github.com/parchakeavinash/SQL-Data-Warehouse-Project
 ## Contact Page
 ![image](https://github.com/user-attachments/assets/51f70aa6-af6f-4b64-94fe-a65149c95de5)
 
